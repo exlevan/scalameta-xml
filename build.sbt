@@ -16,7 +16,7 @@ lazy val macros =
   project
     .settings(
       macroSettings,
-      libraryDependencies += "org.scalameta" %% "scalameta" % "1.8.0-664-e92a7b98"
+      libraryDependencies += "org.scalameta" %% "scalameta" % "1.8.0-670-1dea2184"
     )
 
 lazy val xml =
